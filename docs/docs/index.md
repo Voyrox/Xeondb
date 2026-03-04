@@ -13,12 +13,11 @@
           <span class="home-search__hint"><kbd>s</kbd></span>
         </button>
       </div>
-
     </div>
 
     <div class="home-hero__art">
       <div class="home-logoCard" aria-hidden="true">
-        <img class="home-logo" src="img/logo.png" alt="" />
+        <img class="home-logo" src="img/logoDocs.png" alt="" />
       </div>
     </div>
   </section>
